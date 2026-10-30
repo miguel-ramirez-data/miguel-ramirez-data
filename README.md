@@ -3,7 +3,7 @@
 **Aspiring Data Engineer** · Guadalajara, Mexico 🇲🇽
 
 I work in **L2 production support for data pipelines** — monitoring batch jobs, troubleshooting failed loads,
-and fixing data issues like duplicate records and missing files in **Snowflake**.
+and fixing data issues like duplicate records and missing files. **Linux** **Snowflake**.
 Now I'm building the engineering side: designing and automating the pipelines, not just keeping them running.
 
 - 🔭 Currently building: [**olist-ecommerce-data-platform**](https://github.com/miguel-ramirez-data/olist-ecommerce-data-platform) — an end-to-end pipeline on ~100k real e-commerce orders: Python ingestion → PostgreSQL → dbt star schema → Airflow → AWS
