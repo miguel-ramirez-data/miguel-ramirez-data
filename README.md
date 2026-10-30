@@ -6,9 +6,10 @@ I work in **L2 production support for data pipelines** — monitoring batch jobs
 and fixing data issues like duplicate records and missing files in **Snowflake**.
 Now I'm building the engineering side: designing and automating the pipelines, not just keeping them running.
 
-- 🔭 Currently building: [**data-engineering-journey**](https://github.com/miguel-ramirez-data/data-engineering-journey) — SQL, Git, Python, data modeling, ETL and orchestration, all tested in CI
-- 🌱 Learning: Python for data, data modeling, Apache Airflow, dbt
-- 🌎 Languages: Spanish (native) · English C1
+- 🔭 Currently building: [**olist-ecommerce-data-platform**](https://github.com/miguel-ramirez-data/olist-ecommerce-data-platform) — an end-to-end pipeline on ~100k real e-commerce orders: Python ingestion → PostgreSQL → dbt star schema → Airflow → AWS
+- 🌱 Learning: dbt, Apache Airflow, Terraform, AWS
+- 🧠 Background: Marketing → Data Analytics → Data Engineering
+- 🌎 Languages: Spanish (native) · English
 
 <!-- Uncomment and add your LinkedIn URL:
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-handle)
@@ -32,12 +33,12 @@ Now I'm building the engineering side: designing and automating the pipelines, n
 
 | Project | What it shows |
 |---------|---------------|
-| [**data-engineering-journey**](https://github.com/miguel-ramirez-data/data-engineering-journey) | Structured DE learning path: SQL → Git → Python → modeling → ETL → Airflow → dbt. Dockerized PostgreSQL, SQLFluff linting and CI that runs every query. |
-| [**sakila-sql-case-study**](https://github.com/miguel-ramirez-data/sakila-sql-case-study) | 8 business questions answered with PostgreSQL on the Sakila DVD-rental database, with documented assumptions, exported results and Power BI visuals. |
+| [**olist-ecommerce-data-platform**](https://github.com/miguel-ramirez-data/olist-ecommerce-data-platform) | End-to-end data platform for a Brazilian marketplace (~100k real orders): daily incremental ingestion, layered warehouse (raw → staging → marts), dbt star schema, Airflow orchestration and AWS deployment. CI with real-database tests. *In progress.* |
+| [**sakila-sql-case-study**](https://github.com/miguel-ramirez-data/sakila-sql-case-study) | 8 business questions answered with PostgreSQL on the Sakila DVD-rental database, with exported results, business recommendations and Power BI visuals. |
 | [**powerbi-retail-sales-dashboard**](https://github.com/miguel-ramirez-data/powerbi-retail-sales-dashboard) | Retail sales dashboard: data modeling, cleaning in Power Query and DAX KPIs. |
 
 ---
 
-### 🗺️ Roadmap
+### 🗺️ Current project status — Olist platform
 
-`SQL` ✅ → `Git` 🟡 → `Python` 🟡 → `Data Modeling` ⬜ → `ETL/ELT` ⬜ → `Airflow` ⬜ → `dbt + Snowflake` ⬜ → `Capstone pipeline` ⬜
+`Foundation` 🟡 → `Ingestion` ⬜ → `dbt modeling` ⬜ → `Data quality` ⬜ → `Airflow` ⬜ → `AWS + Snowflake` ⬜ → `Dashboard` ⬜ → `CI/CD hardening` ⬜
