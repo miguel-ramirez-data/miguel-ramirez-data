@@ -8,11 +8,10 @@ Now I'm building the engineering side: designing and automating the pipelines, n
 
 - 🔭 Currently building: [**olist-ecommerce-data-platform**](https://github.com/miguel-ramirez-data/olist-ecommerce-data-platform) — an end-to-end pipeline on ~100k real e-commerce orders: Python ingestion → PostgreSQL → dbt star schema → Airflow → AWS
 - 🌱 Learning: dbt, Apache Airflow, Terraform, AWS
-- 🧠 Background: Marketing → Data Analytics → Data Engineering
-- 🌎 Languages: Spanish (native) · English
+- 🌎 Languages: Spanish (native) · English C1
 
 <!-- Uncomment and add your LinkedIn URL:
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-handle)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andresramsan/)
 -->
 
 ---
