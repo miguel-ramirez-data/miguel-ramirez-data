@@ -8,8 +8,7 @@ Now I'm building the engineering side: designing and automating the pipelines, n
 
 - 🔭 Currently building: [**data-engineering-journey**](https://github.com/miguel-ramirez-data/data-engineering-journey) — SQL, Git, Python, data modeling, ETL and orchestration, all tested in CI
 - 🌱 Learning: Python for data, data modeling, Apache Airflow, dbt
-- 🧠 Background: Marketing → Data Analytics → Data Engineering
-- 🌎 Languages: Spanish (native) · English
+- 🌎 Languages: Spanish (native) · English C1
 
 <!-- Uncomment and add your LinkedIn URL:
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-handle)
